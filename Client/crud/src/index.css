@@ -1,0 +1,16 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+table {
+  border: solid 1px black;
+  border-collapse: collapse;
+  margin: 20px;
+  text-align: center;
+}
+
+td {
+  border: solid 1px black;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
